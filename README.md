@@ -16,4 +16,4 @@
         - [第三节 基本控制结构和枚举法及 Python 实现](https://mybinder.org/v2/gh/LeChocolatChaud/ITClass/main?urlpath=%2Ftree%2Fbixiu_1%2F2.3.ipynb)
     - 第三章 数据处理与应用
         - [第一节 数据采集、整理与安全](https://mybinder.org/v2/gh/LeChocolatChaud/ITClass/main?urlpath=%2Ftree%2Fbixiu_1%2F3.1.ipynb)
-        - [第二节 数据分析与可视化]()
+        - [第二节 数据分析与可视化](https://mybinder.org/v2/gh/LeChocolatChaud/ITClass/main?urlpath=%2Ftree%2Fbixiu_1%2F3.2.ipynb)
