@@ -1,0 +1,5 @@
+jupyter-spaces
+blackcellmagic
+matplotlib
+pandas
+requests
