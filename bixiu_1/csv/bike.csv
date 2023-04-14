@@ -1,0 +1,27 @@
+index,bike_id,datetime,date,month,season,workingday,local_name,weather,isdaytime,temp_value,temp_unit,wind_speed,wind_unit
+505,mr96862,9:50:22,6月21日,6,Summer,Yes,Library,Sunny,TRUE,20,C,3.7,km/h
+506,mr96368,9:50:22,6月21日,6,Summer,Yes,Technology & Industrial Park,Sunny,TRUE,22,C,3.7,km/h
+507,mr96383,9:50:22,6月21日,6,Summer,Yes,Electrical Engineering School,Sunny,TRUE,25,C,3.7,km/h
+508,mr96396,9:50:22,6月21日,6,Summer,Yes,No.5 Hospital,Sunny,TRUE,23,C,3.7,km/h
+509,mr96413,9:50:22,6月21日,6,Summer,Yes,No.5 Hospital,Sunny,TRUE,21,C,3.7,km/h
+510,mr96701,9:50:22,6月21日,6,Summer,Yes,Aquatic Garden,Sunny,TRUE,18,C,3.7,km/h
+511,mr96727,9:50:22,6月21日,6,Summer,Yes,Youth ActivityCenter,Sunny,TRUE,19,C,3.7,km/h
+512,mr96753,9:50:22,6月21日,6,Summer,Yes,Creative Park,Sunny,TRUE,18,C,3.7,km/h
+513,mr96763,9:50:22,6月21日,6,Summer,Yes,Library,Sunny,TRUE,20,C,3.7,km/h
+514,mr96942,9:50:22,6月21日,6,Summer,Yes,No.1 Middle School,Sunny,TRUE,17,C,3.7,km/h
+515,mr96963,9:50:22,6月21日,6,Summer,Yes,Youth ActivityCenter,Sunny,TRUE,20,C,3.7,km/h
+516,mr97068,9:50:22,6月21日,6,Summer,Yes,Youth ActivityCenter,Sunny,TRUE,37,C,3.7,km/h
+517,mr97070,9:50:22,6月21日,6,Summer,Yes,No.1 Middle School,Sunny,TRUE,20,C,3.7,km/h
+516,mr97068,9:50:22,6月21日,6,Summer,Yes,Youth ActivityCenter,Sunny,TRUE,18.7,C,3.7,km/h
+518,mr97128,9:50:22,6月21日,6,Summer,Yes,The Town Hall,Sunny,TRUE,20,C,3.7,km/h
+519,mr96448,9:50:22,6月21日,6,Summer,Yes,Happy Life Square,Sunny,TRUE,18,C,3.7,km/h
+520,mr96478,9:50:22,6月21日,6,Summer,Yes,,Sunny,TRUE,,C,3.7,km/h
+521,mr96847,9:50:22,6月21日,6,Summer,Yes,No.1 Middle School,Sunny,TRUE,20,C,3.7,km/h
+522,mr96582,9:50:22,6月21日,6,Summer,Yes,Electrical Engineering School,Sunny,TRUE,17.8,C,3.7,km/h
+523,mr96254,9:50:22,6月21日,6,Summer,Yes,,Sunny,TRUE,,C,3.7,km/h
+524,mr96234,9:50:22,6月21日,6,Summer,Yes,Financial Square,Sunny,TRUE,20,C,3.7,km/h
+525,mr96397,9:50:22,6月21日,6,Summer,Yes,Happy Life Square,Sunny,TRUE,20,C,3.7,km/h
+526,mr96445,9:50:22,6月21日,6,Summer,Yes,Wanda Plaza,Sunny,TRUE,17.8,C,3.7,km/h
+527,mr96682,9:50:22,6月21日,6,Summer,Yes,Library,Sunny,TRUE,17.8,C,3.7,km/h
+528,mr96954,9:50:22,6月21日,6,Summer,Yes,No.4 Hospital,Sunny,TRUE,17.8,C,3.7,km/h
+529,mr97011,9:50:22,6月21日,6,Summer,Yes,No.4 Hospital,Sunny,TRUE,17.8,C,3.7,km/h
